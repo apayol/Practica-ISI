@@ -4,3 +4,11 @@ NUEVOS-FALLOS
 link original: https://github.com/apayol/Practica-ISI/blob/master/pruebasIDM/Bisiestos/BisiestosTest.java
 Añadido test para año 0.
 link modificado: https://github.com/apayol/Practica-ISI/blob/master/pruebasIDM/Bisiestos/BisiestosTestModificado.java
+
+·RomanNumeral:
+link original: https://github.com/apayol/Practica-ISI/blob/master/pruebasIDM/RomanNumeral/RomanNumeralTest.java
+	1) Faltaba definir que si tienen más de tres letras iguales diera fallo.
+	2) Faltaba definir que letras no son válidas.
+	3) RomanNumeralTest, he añadido bastantes más ejemplos y cambiado totalmente el test.
+	4) He creado 2 test, uno con todos los números romanos a True y otro con todos los números romanos a False.
+link modificado: 

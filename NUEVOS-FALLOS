@@ -12,3 +12,8 @@ link original: https://github.com/apayol/Practica-ISI/blob/master/pruebasIDM/Rom
 	3) RomanNumeralTest, he añadido bastantes más ejemplos y cambiado totalmente el test.
 	4) He creado 2 test, uno con todos los números romanos a True y otro con todos los números romanos a False.
 link modificado: 
+
+·Embotelladora:
+link original: https://github.com/apayol/Practica-ISI/blob/master/pruebasIDM/Embotelladora/EmbotelladoraTest.java
+Adaptado nuestro test a su código, pasa todos. Revisado su código y sus test, se prueban todos los casos posibles.
+link adaptado: https://github.com/apayol/Practica-ISI/blob/master/pruebasIDM/Embotelladora/EmbotelladoraModificado/MiEmbotelladoraTestAdaptado.java
